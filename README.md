@@ -1,3 +1,8 @@
+#Assignment Task (Artificial Brix)
+You have to create a page in React where there will be two buttons. One is View and Other is Post. Clicking on Post will open up a form where you have to put your basic details as your wish and clicking on Submit the given data should get saved in a JSON file. You can use json-server package from npm to write data to a json file without an explicit backend. 
+Next on visiting the View Page it should load data from JSON file and show it in UI only if the JSON file is not empty. If its empty it should render 'No Records in Database'.  You can add or customize design of your own choice.  
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
